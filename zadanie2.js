@@ -49,6 +49,6 @@ function welcomeUsers(array) {
         }
     }
 }
-
+welcomeUsers();
 
 
