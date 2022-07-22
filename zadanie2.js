@@ -2,7 +2,7 @@
 //wypisuje do konsoli programistycznej łańcuch znaków zależny od danych danego obiektu
 function welcomeUsers(array) {
     //alert - powitanie firmy eB2B
-    let user= 'eB2B';
+    /*let user= 'eB2B';
 
     function showMessage() {
         let message = 'Hello, ' + user;
@@ -10,7 +10,7 @@ function welcomeUsers(array) {
     }
     //wyświetlenie powitania
     showMessage();
-
+    */
     //wypisanie tekstu message2 na stronie za pomocą  document.writeln(message2);
     const message2 = "Rozwiązanie zadania 2 - przejdź do konsoli!";
     document.writeln(message2);
